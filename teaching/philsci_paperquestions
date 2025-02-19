@@ -1,6 +1,8 @@
-<html>
+    <!DOCTYPE html>
+<html lang="en">
 <head>
-    <title>Paper Topics</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Questrial&display=swap" rel="stylesheet">
@@ -10,19 +12,7 @@
     font-family: 'Graphik', Rubik, EB Garamond;
     line-height: 1.5;
 }
-    </style>
-</head>
 
-<body>
-    <h1>Paper Topics</h1>
-
-    <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Styled HTML Table</title>
-    <style>
         table {
             width: 100%;
             border-collapse: collapse;
@@ -43,11 +33,14 @@
     </style>
 </head>
 
+
 <body>
+    <h1>Paper Topics</h1>
+
 <ul>
-  <li>State and defend Laudan’s argument that creation science is science</li>
-What is the verification principle (or the verifiability theory of meaning)? How would you argue for (or against) it?
-What is 
+    <li>State and defend Laudan’s argument that creation science is science.</li>
+    <li>What is the verification principle (or the verifiability theory of meaning)? How would you argue for (or against) it?</li>
+    <li>What is </li>
 </ul>    
 
     <p style="margin-top: 20px;"><a href="index.html">BACK TO GUO'S HOMEPAGE</a></p>

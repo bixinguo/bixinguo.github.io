@@ -1,0 +1,302 @@
+
+<html>
+<head>
+    <title>Introduction to Symbolic Logic</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Questrial&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+    font-family: 'Graphik', Rubik, EB Garamond;
+    line-height: 1.5;
+}
+    </style>
+</head>
+<body>
+    <h1>Introduction to Symbolic Logic</h1>
+    
+        <p><a href="Logic/Logic_Syllabus_Fall 2024.pdf" target="_blank">Syllabus</a> (Updated: Sep. 13)</p>
+        <p></p>
+        <p><a href="https://calendar.app.google/1WyPwFyV17H4oFwh9">Book a meeting appointment</a> </p>
+        <!-- <p><a href="https://www.britannica.com/topic/philosophy-of-physics/The-direction-of-time-and-the-foundations-of-statistical-mechanics" target="_blank">Readings</a> </i></p> -->
+    <p><b>Class Schedule</b></p>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled HTML Table</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            font-size: 18px;
+            text-align: left;
+        }
+        th, td {
+            padding: 12px;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+
+    <table>
+        <thead>
+            <tr>
+                <th> </th>
+                <th>Topic</th>
+                <th>Key</th>
+                <th>Readings</th>
+                <th>Assignments</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1. Week 1: Sep. 3</td>
+                <td>Introduction</td>
+                <td><p>What is logic?</p>
+                <p>Requirements and expectations for this class</p></td>                
+                <td rowspan="2">
+                    <p>Lemmon, Chapter 1.1</p>
+                    <p><i>Alternative:</i> <a href="https://macalester.on.worldcat.org/oclc/437062753">Restall, Chapter 1</a></p>
+                    <p><i></i> </p>
+                </td>
+                <td>
+                    <p><a href="https://forms.gle/BnULMJeECz8dnnGJ9">Beginning of Semester Survey</a></p> <p>(optional)</p>
+                </td>                                                                                                                          
+            </tr>
+            
+            <tr>
+                <td>2. Sep. 5</td>
+                <td>Arguments</td>
+                <td><p>What is an argument?</p>
+                <p>What are the differences between sentences and propositions?</p>
+                <p>What are the criteria to evaluate an argument?</p>
+                <p></p></td>
+                <td rowspan="2"><a href="Logic/Assignment1.pdf" target="_blank">Assignment 1</a></p> <p>(due on Sep. 16)</td>
+            </tr>
+            <tr>
+                <td>3. Week 2: Sep. 10</td>
+                <td>Validity and Soundness</td>
+                <td><p>How to judge an argument is valid</p>
+                <p>How to judge an argument is sound</p></td>                
+                <td>Copi et al., Chapter 1.2 & 1.6</td>                
+                                <!-- <td>Row 2, Cell 3</td> -->
+            </tr>
+            <tr>
+                <td>4. Sep. 12</td>
+                <td>Informal Logic</td>
+                <td><p>How to identify an argument</p>
+                <p>What are some common fallacies?</p>
+                </td>
+                <td>Copi et al., Chapter 1.3 & 4
+                <p><a href="https://dorshon.com/wp-content/uploads/2018/03/Introduction-to-Logic.pdf">Copi et al., Chapter 2</a></p>
+                </td>                 
+                <td><a href="Logic/Assignment2.pdf" target="_blank">Assignment 2</a></p> <p>(due on Sep. 23)</td>
+           </tr>
+        <tr><td colspan="5" style="text-align: center;"><b>Sentential Logic</b></td></tr>
+            <tr>
+                <td>5. Week 3: Sep. 17</td>
+                <td>Negation, Conjunction, and Disjunction</td>
+                <td><p>What are these logical operators or connectives?</p>
+                    <p>How are these logical connectives different from their counterparts in natural language?</p>
+                    <p>How to express a sentence using these connectives and sentential variables</p>
+                </td>
+                <td rowspan="2">
+                    <p>Halvorson, Chapter 2, p. 8-15 & 23 (skip p. 12)</p>
+                    <p>Copi et al., Chapter 8.1-8.2 C</p>
+                </td>
+                <td rowspan="2"><a href="Logic/Assignment3.pdf" target="_blank">Assignment 3</a></p> (due on Sep. 30)<p></td>
+            </tr>
+            <tr>
+                <td>6. Sep. 19</td>
+                <td>Truth-tables</td>
+                <td><p>How to judge the truth values of negation, conjunction, and disjunction</p>
+                    <p>What is a truth table?</p>
+                    <p>How to construct a truth table</p>
+                </td>
+            </tr>
+            <tr>
+                <td>7. Week 4: Sep. 24</td>
+                <td>Conditional and Biconditional</td>
+                <td><p>What are conditional and biconditional?</p>
+                    <p>What are their formal properties?</p>
+                    <p>What are sufficient and necessary conditions?</p>
+                </td>
+                <td><a href="https://macalester.on.worldcat.org/oclc/1157769023">Halvorson, Chapter 2, p. 16-21</a>
+                    <p><i>Alternative:</i> Lemmon, Chapter 1.2, p. 5-14; Chapter 1.4</p>
+                    <p><i>Supplementary:</i> Copi et al., Chapter 8.3</p>
+                </td>
+                <td rowspan="2"><a href="Logic/Assignment4.pdf" target="_blank">Assignment 4</a></p> <p>(due on Oct. 7)</td>
+            </tr>
+            <tr>
+                <td>8. Sep. 26</td>
+                <td rowspan="2">Logical Equivalence, Tautologies, and Contradictions</td>
+                <td rowspan="2">
+                    <p>What is the definition of tautological equivalence, and how is it related to logical equivalence?</p>
+                    <p>What are the properties of tautological equivalence?</p>
+                    <p>What are some basic equivalences laws?</p>
+                    <p>What is a tautology and what is a contradiction?</p>
+                </td>
+                <td rowspan="2"><p>Copi et al., Chapter 8.8B</p>
+                    <p><a href="https://moodle.macalester.edu/pluginfile.php/195657/mod_resource/content/2/8.%20Logical%20Equivalence%2C%20Tautologies%20and%20Contradictions.pdf">"Logical Equivalence, Tautologies and Contradictions" (posted on Moodle)</a></p>
+                    <p><i>Alternative:</i> Lemmon, Chapter 2.3</p>
+                </td>
+            </tr>
+            <tr>
+                <td>9. Week 5: Oct. 1</td>
+                <td rowspan="2"><a href="Logic/Assignment5.pdf" target="_blank">Assignment 5</a></p> <p>(due on Oct. 14 or 21: up to you; the relevant materials will be covered in the first In-class Exercise)</td>
+            </tr>
+            <tr>
+                <td>10. Oct. 3</td>
+                <td>Proof using Equivalence Laws</td>
+                <td><p>Understand the newly introduced laws</p>
+                    <p>Learn how to do proofs using equivalence laws</p>
+                    <p>Understand how to simplify sentential expressions</p>
+                </td>
+                <td><p><a href="https://moodle.macalester.edu/pluginfile.php/196374/mod_resource/content/1/9.%20Using%20Equivalence%20Laws.pdf">"Using Equivalence Laws" (posted on Moodle)</a></p>
+                    <p>*Well-formed Formula: Lemmon, p. 42-46</p>
+                    <p>*Brackets and the Scope of a Connective: Lemmon, Chapter 2.1, p. 47-48</p>                
+                </td>
+            </tr>            
+            <tr>
+                <td>11. Week 6: Oct. 8</td>
+                <td rowspan="2">Logical Implication</td>
+                <td rowspan="2"><p>What is the definition of tautological implication, and how is it related to logical implication?</p>
+                    <p>What are the properties of tautological implication?</p>
+                    <p>What is Conditional Proof? How to understand it?</p>
+                </td>
+                <td>Halvorson, Chapter 2, p. 12</td>
+                <td rowspan="2"><a href="Logic/Assignment6.pdf" target="_blank">Assignment 6</a></p> <p>(due on Oct. 28)</td>
+            </tr>
+            <tr>
+                <td>12. Oct. 10</td>
+                <td><p>Rule of Assumption: Lemmon, p. 8-9</p>
+                    <p><i>Alternative:</i> Halvorson, Chapter 2, p. 27-29</p>
+                    <p><i>Supplementary:</i> <a href="https://hume.ucdavis.edu/phi112/112objectmeta_ho.pdf" target="_blank">Object Language and Metalanguage</a></p>
+                </td>
+            </tr>            
+            <tr>
+                <td>Week 7: Oct. 15</td>
+                <td colspan="4"><i>In-class Exercise 1</i></td>
+            </tr>
+            <tr>
+                <td>Oct. 17</td>
+                <td colspan="4"><i>Fall break</i></td>
+            </tr>
+            <tr>
+                <td>13. Week 8: Oct. 22</td>
+                <td rowspan="2">Proof using Implication Laws</td>
+                <td rowspan="2"><p>What are implication laws (such as Conditional Proof and Monotonicity)?</p>
+                                <p>How to use these laws?</p>
+                </td>
+                <td rowspan="3"><a href="https://moodle.macalester.edu/pluginfile.php/199198/mod_resource/content/3/Logical%20Implication.pdf">"Logical Implication" (posted on Moodle)</a></td>
+                <td rowspan="2"><a href="Logic/Assignment7.pdf" target="_blank">Assignment 7</a></p> <p>(due on Nov. 4)</td>
+            </tr>
+            <tr>
+                <td>14. Oct. 24</td>
+            </tr>
+            <tr>
+                <td>15. Week 9: Oct. 29</td>
+                <td>Fool-proof Method</td>
+                <td><p>If an implication does not hold, how to produce a counterexample?</p>
+                    <p>How to do proofs by contradiction?</p></td>                
+                <td rowspan="3"><a href="Logic/Assignment8.pdf" target="_blank">Assignment 8</a><p>(due on Nov. 11; can be extended to 14)</p></td>
+            </tr>
+<tr><td colspan="4" style="text-align: center;"><b>Predicate Logic</b></td></tr>
+            <tr>
+                <td>16. Oct. 31</td>
+                <td rowspan="2">Singular Propositions</td>
+                <td rowspan="2"><p>Why do we need predicate logic in addition to sentential logic?</p>
+                    <p>What are names?</p>
+                    <p>What are predicates?</p>
+                    <p>How to identify if a predicate is 1-place (unary), 2-place (binary), or 3-place?</p>
+                    <p>How to translate a sentence using individual constants, predicates, and connectives?</p></td>
+                <td rowspan="2"><p>Copi et al., Chapter 10.1-10.2</p>
+                    <p><i>Supplementary</i>: DeLancey, <i>A Concise Introduction to Logic</i>, <a href="https://milnepublishing.geneseo.edu/concise-introduction-to-logic/chapter/11-names-and-predicates/" target="_blank">Chapter 11: Names and Predicates</a></p>
+                </td>
+            </tr>
+            <tr>
+                <td>17. Week 10: Nov. 5 <i>(Election Day)</i></td>
+                <td rowspan="2"><a href="Logic/Assignment9.pdf" target="_blank">Assignment 9</a></p> <p>(due on Nov. 18; can be extended to 21)</td>
+            </tr>
+            <tr>
+                <td>18. Nov. 7</td>
+                <td>Universal and Existential Quantifiers</td>
+                <td><p>What are individual variables? (How are they different from individual constants?)</p>
+                    <p>Are propositional functions sentences?</p>
+                    <p>What is universal quantifier?</p>
+                    <p>What is existential quantifier?</p>
+                </td>
+                <td>Copi et al., Chapter 10.3, p. 437-439
+                    <p><i>Alternative</i>: Halvorson, Chapter 6, p. 84-90</p></td>
+            </tr>
+            <tr>
+                <td>Week 11: Nov. 12</td>
+                <td colspan="4"><i>Study Session</i></td>
+            </tr>
+            <tr>
+                <td>Nov. 14</td>
+                <td colspan="4"><i>In-class Exercise 2</i></td>
+            </tr>
+            <tr>
+                <td>19. Week 12: Nov. 19</td>
+                <td rowspan="2">Basic forms of quantification</td>
+                <td rowspan="2"><p>What are some basic forms of quantification?</p>
+                    <p>How could a universal quantifier and an existential quantifier be related to symbolize the same sentence?</p>
+                </td>
+                <td>Copi et al., Chapter 10.3-10.4, p. 440-443
+                <p><i>Alternative:</i> DeLancey, <a href="https://milnepublishing.geneseo.edu/concise-introduction-to-logic/chapter/12-all-and-some/" target="_blank">Chapter 12: “All” and “some”</a></p>
+                </td>
+                <td rowspan="4"><a href="Logic/Assignment10.pdf" target="_blank">Assignment 10</a></p> <p>(due on Dec. 3 or 5: up to you; if you'd like your assignment to be graded before the final exam, please submit on Dec. 3)</td>
+            </tr>
+            <tr>
+                <td>20. Nov. 21</td>
+                <td><a href="https://moodle.macalester.edu/pluginfile.php/204760/mod_resource/content/1/20Some%20basic%20forms%20of%20quantification.pdf">"Some basic forms of quantification" (posted on Moodle)</a></td>
+            </tr>            
+            <tr>
+                <td>Week 13: Nov. 26</td>
+                <td colspan="3"><i>Study Session</i></td>
+            </tr>
+            <tr>
+                <td>Nov. 28</td>
+                <td colspan="3"><i>Thanksgiving Break</i></td>
+            </tr>
+            
+            <tr>
+                <td>21. Week 14: Dec. 3</td>
+                <td>Interpretation and truth-value assignments</td>
+                <td><p>What determines an interpretation?</p>
+                <p>What is Reference?</p>
+                <p>What is Extension?</p>
+                <p>What determines the truth condition of a singular proposition in predicate logic?</p>
+                </td>
+                <td><p><a href="https://moodle.macalester.edu/pluginfile.php/205204/mod_resource/content/1/21%20Interpretation%20and%20truth-value%20assignments.pdf">"Interpretation and truth-value assignments" (posted on Moodle)</a></p>
+                    <i>Supplementary</i>: Halvorson, Chapter 8, p. 156-161</td>
+                <td rowspan="2"><i>Review</i></td>
+            </tr>
+        
+            <tr>
+                <td>22. Dec. 5</td>
+                <td>Inductive Logic and Probability</td>
+                <td>What is an inductive argument? How is it different from a deductive argument?</td>
+                <td><p>Sinnott-Armstrong et al., <a href="https://macalester.on.worldcat.org/oclc/934251295" target="_blank">Understanding Arguments</a>, Chapter 8, p. 179-182</p>
+                    <i>Supplementary</i>: Hacking, <a href="https://archive.org/details/an-introduction-to-probability-and-inductive-logic/mode/2up" target="_blank">An Introduction to Probability and Inductive Logic</a></td>
+            </tr>
+           <td>Week 15: Dec. 10</td>
+                <td colspan="4"><i>Final Exam</i>: 1:20pm (Sec. 01) or 3pm (Sec. 02)</td>
+            </tr>   
+        </tbody>
+    </table>
+    
+</body>
+</html>

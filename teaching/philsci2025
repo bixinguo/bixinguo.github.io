@@ -1,0 +1,312 @@
+
+
+<html>
+<head>
+    <title>Philosophy of Science</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Questrial&display=swap" rel="stylesheet">
+
+    
+    <style>
+        body {
+    font-family: 'Graphik', Rubik, EB Garamond;
+    line-height: 1.5;
+}
+             p.indent {
+            margin-left: 40px; /* Indent entire paragraph */
+            margin-bottom: 1em; /* Space below paragraphs */
+        }
+    
+    </style>
+</head>
+<body>
+    <h1>Philosophy of Science: Physics, Reality, and Beyond (Spring 2025)</h1>
+        <p><a href="teaching/Syllabus_Phil of Science_Spring 2025.pdf" target="_blank">Syllabus</a> (Updated: Jan. 23)</p>
+<p>Cold weather drop-in hours: Wednesday 1-2:30pm; Tuesday 4:30-5:00pm by appointment</p>
+        <p style="margin-bottom: 35px;"><a href="https://calendar.app.google/hXgeywJ8U31LuGDV6">Book a meeting appointment</a></p>
+    
+        <p>Recommended textbooks:</p>
+    <p>James Ladyman, <i>Understanding Philosophy of Science</i>.</p>
+    <p style="margin-bottom: 35px;">Peter Godfrey-Smith, <i>Theory and Reality: an introduction to the philosophy of science</i>.</p>
+    
+    <p><b>Class Schedule, Readings, and Main Goals</b></p>
+    
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled HTML Table</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            font-size: 18px;
+            text-align: left;
+        }
+        th, td {
+            padding: 12px;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+
+<span style="color: #85c1e9;">Week 1</span>
+<p><b>Jan. 23: Introduction</b></p>
+<p>James Ladyman, <i>Understanding Philosophy of Science</i>, Introduction (p. 1-8).</p>
+<p><span style="color: #85c1e9;">Supplementary:</span> Peter Godfrey-Smith, <i>Theory and Reality: an introduction to the philosophy of science</i>, p. 6-7.</p>
+<ul>
+  <li>What are the main questions in philosophy of science?</li>
+  <li>What is the distinction between <i>metaphysics</i> and <i>epistemology</i>?</li>
+  <li>Get familiar with the syllabus and class requirements</li>
+  <li style="margin-bottom: 35px;">Vote and decide on topics for this semester</li>
+</ul>
+
+    
+<span style="color: #85c1e9;">Week 2</span>
+<p><b>1. Jan. 28: What is Science?</b> (and How to Read Philosophy)</p>
+    <p>David W. Concepción, “How to Read Philosophy” (p. 358-367).</p>
+    <p>Reginald Stuart, “Judge overturns Arkansas law on creationism”, in <i>New York Times</i>, <a href="https://www.nytimes.com/1982/01/06/us/judge-overturns-arkansas-law-on-creationism.html" target="_blank">https://www.nytimes.com/1982/01/06/us/judge-overturns-arkansas-law-on-creationism.html</a>.</p>
+    <p><span style="color: #85c1e9;">Alternative:</span> Michael Ruse, “Creation Science is not science” (p. 72-78).</p>
+    Larry Laudan, “Commentary: Science at the Bar: causes for concern” (p. 16-19).
+    <ul>
+  <li>What is an argument?</li>
+  <li>Learn how to read philosophy</li>
+  <li>See an example of how a philosophical debate matters beyond academic settings and how to defend (or challenge) a view regardless of one's personal beliefs</li>
+</ul>
+<p><b>2. Jan. 30: Deductive and Inductive Reasoning</b></p>
+    <p>James Ladyman, <i>Understanding Philosophy of Science</i>, Chapter 1 (p. 11-30).</p>
+    <span style="color: #85c1e9;">Supplementary:</span> Ian Hacking, <a href="https://archive.org/details/an-introduction-to-probability-and-inductive-logic/mode/2up" target="_blank"><i>An Introduction to Probability and Inductive Logic</i></a>, Chapter 1-2.
+<ul>
+  <li>What are the criteria to evaluate an argument?</li>
+  <li>What is the difference between validity and soundness?</li>
+  <li>What is the distinction between <i>deduction</i> and <i>induction</i>?</li>
+  <li style="margin-bottom: 35px;">What is empiricism?</li>
+</ul>
+
+    
+<span style="color: #85c1e9;">Week 3</span>
+<p><b>3. Feb. 4: Logical Positivism</b> (setting the agenda)</p>
+    <p>Peter Godfrey-Smith, <i>Theory and Reality: an introduction to the philosophy of science</i>, Chapter 2.1-2.3 & 2.6.</p>
+    <p>Alfred J. Ayer, <i>Language, Truth and Logic</i> (1936), Chapter 1 ("The Elimination of Metaphysics", p. 45-61).</p>
+    <p><span style="color: #85c1e9;">Supplementary:</span> the rest of Chapter 2 in <i>Theory and Reality</i>.</p>
+    <p><span style="color: #85c1e9;">Supplementary:</span> Christopher Ray, “Logical Positivism”, in Newton-Smith (ed.) <i>A Companion to the Philosophy of Science</i> (p. 243-250).</p>
+
+<ul>
+  <li>In what sense is Logical Positivism a form of empiricism?</li>
+  <li>What is the analytic-synthetic distinction?</li>
+  <li>What is the verification principle (or the verifiability theory of meaning)?</li>
+</ul>
+    
+<p><b>4. Feb. 6: The Problem of Induction</b></p>
+    <p>James Ladyman, <i>Understanding Philosophy of Science</i>, Chapter 2, p. 31-50.</p>
+    <p>Bertrand Russell, <i>The Problems of Philosophy</i> (1912), Chapter 6 ("On Induction", p.60-69).</p>
+    <p><span style="color: #85c1e9;">Supplementary:</span> David Hume, <i>Enquiry Concerning Human Understanding</i> (1777), Section IV-V.</p>
+<ul>
+  <li>What is the problem of induction?</li>
+  <li style="margin-bottom: 35px;">What are some of its proposed solutions and their problems?</li> 
+  <!-- <li>What is the new riddle of induction?</li> -->
+</ul>
+
+    
+<p><span style="color: #85c1e9;">Week 4</span></p>
+<p><b>5. Feb. 11: Popper on Falsification and Induction</b></p>
+    <p>James Ladyman, <i>Understanding Philosophy of Science</i>, Chapter 3, Sec. 3.1-3.3 (p. 62-76).</p>
+    <p>Karl Popper, <i>Conjectures and Refutations</i> (1963), Chapter 1, Sec. I-III (p. 43-54).</p>
+    <p>Karl Popper, <i>The Logic of Scientific Discovery</i> (1959), Chapter I (“A survey of some fundamental problems"), p. 27-33.</p>
+<p><b>6. Feb. 13: Criticisms of Popper and Responses</b></p>
+    <p>James Ladyman, <i>Understanding Philosophy of Science</i>, Chapter 3, Sec. 3.4-3.6 (p. 77-91).</p>
+    <p>David Deutsch, <i>The Fabric of Reality</i> (1997), Chapter 7 (p. 141-166).</p>
+    <p><span style="color: #85c1e9;">Supplementary:</span> Popper, <i>Conjectures and Refutations</i>, Chapter 1, Sec. IV-X (p. 54-78.)</p>
+<ul>
+  <li>What is Falsificationism?</li>
+  <li>What is Popper's take on induction?</li>
+  <li>What are some criticisms of Falsificationism?</li>
+  <li style="margin-bottom: 35px;">Does Popper solve the problem of induction?</li>
+</ul>
+
+<span style="color: #85c1e9;">Week 5</span>
+<p><b>7. Feb. 18: Lakatos on versions of Falsificationism</b></p>
+    <p>Peter Godfrey-Smith, <i>Theory and Reality: an introduction to the philosophy of science</i>, Chapter 7.2 (p.103-107).</p>
+    <p>Imre Lakatos, “Science and Pseudoscience”, in <i>Philosophical Papers</i> Volume 1 (1978), p.3-7.</p>
+    <p>Imre Lakatos, “Falsification and the Methodology of Scientific Research Programs”, in <i>Philosophical Papers</i> Volume 1 (1978), p.12-13, 25-28, & 31-40.</p>
+<ul>
+  <li>What is Dogmatic Falsificationism?</li>
+  <li>What is Naive (Methodological) Falsificationism?</li>
+  <li>What is Sophisticated (Methodological) Falsificationism? (According to it, when do we reject a theory?)</li>
+</ul>
+    
+<p><b>8. Feb. 20: Lakatos on Scientific Research Programs</b></p>
+    <p>The rest of “Falsification and the Methodology of Scientific Research Programs”, p. 12-52; especially 3(a)-(b) if you haven't finished last time.</p>
+    <p><span style="color: #85c1e9;">Alternative:</span> W.H. Newton-Smith, "In Search of the Methodologist’s Stone" in <i>The Rationality of Science</i> (1981), p.82-99.</p>
+<ul>
+  <li>What specifies a Scientific Research Program, according to Lakatos?</li>
+  <li>What distinguishes a progressive program from a degenerate one?</li>
+</ul>
+    <b>Introduction to Scientific Realism</b>
+    <p>James Ladyman, <i>Understanding Philosophy of Science</i>, Chapter 5, p. 129-142.</p>    
+    <p style="margin-bottom: 35px;"><span style="color: #F08080;">Paper Proposal Due</span> (<a href="teaching/philsci_paperquestions" target="_blank">Paper Topics</a>)</p>
+    
+    
+<span style="color: #85c1e9;">Week 6</span>
+<p><b>9. Feb. 25: Scientific Realism</b></p>
+    <p>James Ladyman, <i>Understanding Philosophy of Science</i>, Chapter 5, p. 154-159.</p>
+    <p>James Ladyman, <i>Understanding Philosophy of Science</i>, Chapter 7, p. 209-220.</p>            
+    <p>Stathis Psillos, "In Defence of Scientific Realism" in <i>Scientific Realism: How Science Tracks Truth</i> (1999), p. 71-82 & 96-97.</p>
+    <p><span style="color: #85c1e9;">Supplementary:</span> Gilbert Harman, “Inference to the Best Explanation” in <i>Philosophical Review</i> (1965, p.88-95).</p>
+<ul>
+  <li>What is scientific realism?</li>
+  <li>What is the best argument for accepting scientific realism?</li>
+  <li>What is inference to the best explanation?</li>
+</ul>
+    
+<p><b>10. Feb. 27: Criticisms of Scientific Realism</b></p>
+    <p>James Ladyman, <i>Understanding Philosophy of Science</i>, Chapter 8, p. 231-234 & 237-252.</p>
+    <p>Larry Laudan, "A Confutation of Convergent Realism", in <i>Philosophy of Science</i> (1981), Sec. 5-6 (p. 33-44).</p>
+    <p class="indent"><i>(Please read the first part of Ladyman's before you read Laudan's. Or you can choose to read Laudan's full paper (which would be more challenging) and skip the textbook reading.)</i></p>
+    <p><span style="color: #85c1e9;">Supplementary:</span> Stathis Psillos, <i>Scientific Realism: How Science Tracks Truth</i> (1999), Chapter 5 & 6 (which provides some helpful historical background).</p>
+<ul>
+  <li>What is the “pessimistic argument” against scientific realism, and how best can it be formulated?</li>
+  <li>What examples from the history of science can be used to support the pessimistic argument?</li>
+  <li>How should the realist respond to the pessimistic meta-induction?</li>
+</ul>
+        <p style="margin-bottom: 35px;"><span style="color: #F08080;">Paper Outline Due</span></p>
+
+    
+<span style="color: #85c1e9;">Week 7</span>
+<p><b>* Mar. 4: Writing Workshop</b></p>
+    <p>Jim Pryor, <a href="https://www.jimpryor.net/teaching/guidelines/writing.html" target="_blank">Guidelines on Writing a Philosophy Paper</a>.</p>
+    <p><span style="color: #85c1e9;">Supplementary:</span> Steven Pinker, <i>The Sense of Style: the thinking person's guide to writing in the 21st century</i> (available as course reserve in the library).</p>
+    
+<p><b>11. Mar. 6: Constructive Empiricism</b></p>
+    <p>James Ladyman, <i>Understanding Philosophy of Science</i>, Sec. 6.2 (p. 185-193); <span style="color: #85c1e9;">Optional:</span> Sec. 7.2.4 (p. 220-225).</p>
+    <p>Bas van Fraassen, <i>The Scientific Image</i> (1980), Chapter 1 (p. 6-40).</p>
+    <p class="indent"><i>(Please read as much as you can. If you don't have enough time, focus on Sec. 1-3)</i></p>
+    <p><span style="color: #85c1e9;">Supplementary:</span> Musgrave, “Realism versus Constructive Empiricism”, in Paul Churchland and Clifford Hooker (eds.) <i>Images of Science</i> (1985, p. 197-221).</p>
+<ul>
+  <li>What is constructive empiricism? How to defend it?</li>
+  <li>What is the best case that can be made for rejecting constructive empiricism?</li>
+</ul>
+    <p style="margin-bottom: 35px;"><span style="color: #F08080;">Paper Draft Due</span></p>
+
+<span style="color: #85c1e9;">Week 8</span>
+    <p class="indent"><i>We will continue learning about constructive empiricism; if we have time, we will also discuss structural realism. You can write your reading response for this session either on the reading below or Musgrave's reading above.</i></p>
+<p><b>12*. Mar. 11: Structural Realism/Constructive Empiricism</b></p>
+    <p>James Ladyman, "What is Structural Realism?”, in <i>Studies in the History and Philosophy of Science</i> (1998, p. 409-422).</p>
+    
+<p><b>* Mar. 13: Writing Group Session</b></p>
+    <p>Read and comment on 2 paper drafts of your group members.</p>
+    <p style="margin-bottom: 35px;"><span style="color: #F08080;">Paper Comments Due</span></p>
+
+    
+<span style="color: #85c1e9;">Week 9</span>
+<p style="margin-bottom: 35px;">Spring Break</p>
+
+<span style="color: #85c1e9;">Week 10</span>
+<p><b>13. Mar. 25: Philosophy of Computer Science/AI</b> (guest speaker over Zoom)</p>
+        <p>Jack Copeland, <i>Turing: Pioneer of the Information Age</i> (extracts); optional for reading responses.</p>
+<p><b>Mar. 27: Mid-Course Interview</b></p>
+    <p style="margin-bottom: 35px;"><span style="color: #F08080;">Paper Submission Due</span></p>
+
+<span style="color: #85c1e9;">Week 11</span>
+<p><b>14. Apr. 1: Structural Realism</b></p>
+    <p>James Ladyman, <i>Understanding Philosophy of Science</i>, Sec. 8.4 (p. 260-262).</p>
+<p class="indent"><i>If you haven't, finish reading</i> James Ladyman, "What is Structural Realism?”, in <i>Studies in the History and Philosophy of Science</i> (1998, p. 409-422).</p>
+<p class="indent"><i>If you have already read the above, pick and read one of the following supplementary readings or readings for next session on laws of nature:</i></p>
+    <p><span style="color: #85c1e9;">Supplementary:</span> John Worrall, “Structural Realism: The best of both worlds?”, in <i>Dialectica</i> (1989, p. 99-124).</p>
+    <p><span style="color: #85c1e9;">Supplementary:</span> David Wallace, "Stating Structural Realism: Mathematics-First Approaches to Physics and Metaphysics" in <i>Philosophical Perspectives</i> (2022).</p>    
+<ul>
+  <li>What is structural realism? How does it improve on standard scientific realism?</li>
+  <li>What are some potential problems of structural realism?</li>
+</ul>
+    
+<p><b>15. Apr. 3: Laws of Nature</b></p>
+    <p>Helen Beebee, "The Non-Governing Conception of Laws of Nature" in <i>Philosophy and Phenomenological Research</i> (2000), p. 571-577.</p>
+    <p>David Lewis, "Humean Supervenience Debugged" in <i>Mind</i> (1994), Sec. 1 & 3.</p>
+    <p>John Carroll, “Laws of Nature,” in <i>Stanford Encyclopedia of Philosophy</i>, Intro., Sec. 1-2 & 8-9.</p>
+<ul>
+  <li>What is the Governing/Necessitarian Account of laws? What are the standard objections against it?</li>
+  <li>What is the Best System Account of laws?</li>
+  <li style="margin-bottom: 35px;">What is Lewis's thesis of Humean Supervenience?</li>
+</ul>
+    
+<span style="color: #85c1e9;">Week 12</span>
+<p><b>16. Apr. 8: Laws of Nature and Scientific Explanation</b></p>
+    <p>James Ladyman, <i>Understanding Philosophy of Science</i>, p. 196-202; <span style="color: #85c1e9;">Supplementary:</span> p. 203-208.</p>
+    <p>Nancy Cartwright, “The Truth Doesn’t Explain Much”, in <i>American Philosophical Quarterly</i> (1980, p. 159-163).</p>
+    <p>Nancy Cartwright, “Do the Laws of Physics State the Facts?” in <i>How the Laws of Physics Lie</i> (1983), p. 53-61 & 72-73.</p>
+    <p><span style="color: #85c1e9;">Supplementary:</span> Marc Lange, "Who’s Afraid of Ceteris Paribus Laws? Or: How I Learned to Stop Worrying and Love Them", in <i>Erkenntnis</i> (2002), p. 407-423.</p>
+<ul>
+  <li>What is the deductive-nomological (DN) model of explanation?</li>
+  <li>What are <i>ceteris paribus</i> laws?</li>
+  <li>What can't <i>ceteris paribus</i> laws explain?</li>
+</ul>
+
+    
+<p><b>17. Apr. 10: Feminist Philosophy of Science</b></p>
+    <p>Helen Longino and Ruth Doell, "Body, Bias, and Behavior: A Comparative Analysis of Reasoning in Two Areas of Biological Science" (1983, p. 206-227)</p>
+    <p>Alison Wylie, "Feminism in Philosophy of Science: Making sense of Contingency and Constraint" in <i>The Cambridge Companion to Feminism in Philosophy</i>, p. 166-169 & 174-178.</p>
+    <p><span style="color: #85c1e9;">Supplementary:</span> Sarah Richardson, "Feminist philosophy of science: history, contributions, and challenges" in <i>Synthese </i> (2010).</p>
+<ul>
+  <li>What are some case studies of male bias in science?</li>
+  <li>What is feminist standpoint theory/epistemology?</li>
+  <li style="margin-bottom: 35px;">What is feminist empiricism?</li>
+</ul>    
+
+    
+<span style="color: #85c1e9;">Week 13</span>
+<p><b>18. Apr. 15: Science and Value</b></p>
+    <p>Helen Longino, <i>Science as Social Knowledge: Values and Objectivity in Scientific Inquiry</i> (1990), Chapter 4: Values and Objectivity, p. 63-82.</p>    
+    <p><span style="color: #85c1e9;">Supplementary:</span> Heather Douglas, "Inductive Risk and Values in Science" in <i>Philosophy of Science</i> (2000, p. 559–579).</p>
+<ul>
+  <li>What are the two senses of objectivity?</li>
+  <li>What are the problems of these two senses of objectivity?</li>
+  <li>What notion of objectivity of science does Longino propose?</li>
+</ul> 
+<p><b>Apr. 17: Study Day</b> (no class)</p>
+    <p style="margin-bottom: 35px;"><span style="color: #F08080;">Proposal for Final Project Due</span> (<a href="teaching/philsci_paperquestions" target="_blank">Project Topics</a>)</p>
+
+    
+<span style="color: #85c1e9;">Week 14</span>
+<p><b>19. Apr. 22: Reduction and Emergence</b></p>
+    <p>Jaegwon Kim, "Making Sense of Emergence”, in <i>Philosophical Studies</i> (1999), p. 3-10.</p>
+    <p>Jerry Fodor, “Special Sciences (or: the disunity of science as a working hypothesis)”, in <i>Synthese</i> (1974, p. 97-114).</p>
+    <p><span style="color: #85c1e9;">Supplementary:</span> Elliott Sober, “The Multiple Realizability Argument Against Reductionism”, in <i>Philosophy of Science</i> (1999, p. 542-564).</p>
+<ul>
+  <li>What is reduction?</li>
+  <li>What is emergence?</li>
+  <li>In what sense does emergence oppose reduction?</li>
+  <li>What is Multiple Realizability (Fodor's objection against reduction)?</li>
+</ul> 
+    
+<p><b>20. Apr. 24: The Direction of Time</b></p>
+    <p>David Albert, <i>Time and Chance</i> (2000), Chapter 1 (p. 1-21)</p>
+    <p><span style="color: #85c1e9;">Supplementary:</span> Time Maudlin, "On the Passing of Time" in <i>Metaphysics Within Physics</i>.</p>
+    <p><span style="color: #85c1e9;">Supplementary:</span> Sean Carroll's MINDSCAPE Podcast, <a href="https://www.preposterousuniverse.com/podcast/2021/08/02/158-david-wallace-on-the-arrow-of-time/" target="_blank">Episode 158 (David Wallace on the Arrow of Time)</a>.</p>
+<ul>
+  <li>What does it mean that time has a direction?</li>
+  <li>What is time-reversal invariance?</li>
+  <li>What is the tension between the two?</li>
+</ul> 
+    <p style="margin-bottom: 35px;"><span style="color: #F08080;">Self-Reflection</span></p>    
+    
+<span style="color: #85c1e9;">Week 15</span>
+<p><b>21. Apr. 29: Philosophy of Quantum Mechanics</b></p>
+    <p><span style="color: #85c1e9;">Option 1:</span> David Albert, <i>Quantum Mechanics and Experience</i>, Chapter 1; give it try for Chapter 4 if you can.</p>
+    <p><span style="color: #85c1e9;">Option 2:</span> Tim Maudlin, <i>Philosophy of Physics: Quantum Theory</I>, Chapter 2. <i>(A bit technical, if you’d like a quick intro. to learn quantum mechanics.)</i></p>
+    <p><span style="color: #85c1e9;">Option 3:</span> “Measure for Measure: Quantum Physics and Reality” (90-minute video discussion at the World Science Festival). Online at https://www.youtube.com/watch?v=GdqC2bVLesQ</p>
+<p><b>May 1: Final Project Presentation</b></p>
+    <p style="margin-bottom: 20px;"><span style="color: #F08080;">Final Project Due</span></p>
+
+<p>Final deadline for Paper Revision and supplementary material for the Final Project: May 9; grace period by May 12</p>
+</body>
+</html>
